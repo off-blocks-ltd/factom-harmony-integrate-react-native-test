@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "factom-harmony-integrate": "git+ssh://git@github.com/FactomProject/factom-harmony-integrate"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
